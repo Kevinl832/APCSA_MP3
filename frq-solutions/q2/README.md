@@ -11,7 +11,7 @@
 - Switch the team scoring when a team wins no point.
 ---
  # Prior experience that helped...
-- Demorgan's law lesson was really helpful. I made the instance variable of `private boolean isTeam1Active = true` then when team one scores no point, `isTeam1Active = !isTeam1Active` to show scoring team changing.
+- Demorgan's law lesson was really helpful for recalling and applying that `!`boolean condition will flips its condition. I made the instance variable of `private boolean isTeam1Active = true` then when team one scores no point, `isTeam1Active = !isTeam1Active` to show scoring team changing.
 ---
  # What I learned by doing this question...
 - I learned to work with conditions to change use of a counter when the conditon is met.
