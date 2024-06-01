@@ -12,4 +12,4 @@
 - The loop exercise with the while loop helped a lot since it helped with creating the while loop condition.
 ---
  # What I learned by doing this question...
-- Tracking how the first method will be used in second mathod. The design of these two method can actually be used in games to accumulate energy usage for traveling certain paths.
+- Tracking how the first method will be used in second method. The design of these two method can actually be used in games to accumulate energy usage for traveling certain paths.
